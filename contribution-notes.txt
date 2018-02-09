@@ -1,0 +1,4 @@
+aremoren: contributed to app.py file part2, testing
+jopmontg: contributed to Dockerfile part2 , testing
+stjshi: contributed to app.py file part 1, testing
+joedorti: contributed to Dockerfile part 1, testing
