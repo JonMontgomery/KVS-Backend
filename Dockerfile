@@ -15,7 +15,7 @@ RUN pip install --trusted-host pypi.python.org -r requirements.txt
 EXPOSE 8080
 
 # Define environment variable
-ENV NAME IP PORT MAINIP
+ENV NAME World IP PORT MAINIP
 
 # Run app.py when the container launches
 CMD ["python", "app.py"]
